@@ -44,4 +44,4 @@ jobs:
         with:
           python-version: "3.10.12"
       - name: run kfc.py
-        run: python3 .github/scripts/kfc.py
+        run: python3 .github/workflows/scripts/kfc.py
