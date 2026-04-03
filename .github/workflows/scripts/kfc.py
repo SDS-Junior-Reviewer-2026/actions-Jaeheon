@@ -1,0 +1,6 @@
+print("kfc is the best burger in the world")
+print("kfc is the best burger in the world")
+print("kfc is the best burger in the world")
+print("kfc is the best burger in the world")
+print("kfc is the best burger in the world")
+print("kfc is the best burger in the world")
